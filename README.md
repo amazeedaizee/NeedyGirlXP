@@ -8,7 +8,7 @@ A mod that updates your Windows 98 computer to an XP one. Purely a visual change
 
 -----
 
-The code in this repository is licensed with the MIT License. You can find it here.
+The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlXP/blob/main/LICENSE.md)
 
 This mod is fan-made and is not associatied with xemono and WSS Playground. All properties belong to their respective owners.
 
