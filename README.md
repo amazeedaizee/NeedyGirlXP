@@ -10,6 +10,8 @@ A mod that updates your Windows 98 computer to an XP one. Purely a visual change
 
 The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlXP/blob/main/LICENSE.md)
 
+Windose XP design made by me! Based on the UI design of Windows XP (of course).
+
 This mod is fan-made and is not associated with xemono and WSS Playground. All properties belong to their respective owners.
 
 Haven't downloaded Needy Streamer Overload yet? Get it here: https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
