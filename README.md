@@ -1,6 +1,7 @@
 # Windose XP Mod for Needy Streamer Overload
 
-![image](https://github.com/amazeedaizee/NeedyGirlXP/assets/131136866/adecd61f-ccfe-49ea-8afe-b1697b485cf1)
+![2023-08-10 (1)](https://github.com/amazeedaizee/NeedyGirlXP/assets/131136866/1f8cda82-1272-44a8-a654-e0ce65f0ff69)
+
 
 A mod that updates your Windows 98 computer to an XP one. Purely a visual change.
 
