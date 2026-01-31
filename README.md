@@ -1,3 +1,4 @@
+### [A small update on my mods](https://gist.github.com/amazeedaizee/b065103e312e6339ddce15854445dc27)
 # Windose XP Mod for Needy Streamer Overload
 
 ![2023-08-10 (1)](https://github.com/amazeedaizee/NeedyGirlXP/assets/131136866/1f8cda82-1272-44a8-a654-e0ce65f0ff69)
@@ -7,6 +8,14 @@ A mod that updates your Windows 98 computer to an XP one. Purely a visual change
 
 ### Note: You must have BepInEx pre-configured and enabled with the game to use this mod.
 [You can read how to configure BepInEx with the game here.](https://gist.github.com/amazeedaizee/ae0dd70cc0d842d6a83cd80451e3752e)
+
+-----
+
+## Disclosure
+
+This mod (code) was unfortunately created using Visual Studio 2022 with Intellicode (Ai-powered autocomplete)
+
+[More info](https://gist.github.com/amazeedaizee/b065103e312e6339ddce15854445dc27)
 
 -----
 
